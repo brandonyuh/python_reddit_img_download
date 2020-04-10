@@ -1,10 +1,11 @@
 import sys
-
-import reddit_variables
 import praw
 import re
 import pyperclip
 import requests
+
+#delete this line
+import reddit_variables
 
 # Replace with your own at https://www.reddit.com/prefs/apps
 client_id = reddit_variables.client_id
